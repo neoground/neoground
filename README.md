@@ -10,7 +10,7 @@ Hello, fellow innovators! Welcome to our world of open-source repositories. Here
 
 As the curator of this account, I bring a fusion of creativity, expertise, and enthusiasm to every project. Our GitHub is a window into our world, showcasing the diverse, inclusive, and dynamic nature of our work.
 
-I'm a German web dev expert & IT aficionado with 15+ years of PHP & Linux mastery. Passionate about server tech & software dev. Founder & Tech Visionary at Neoground. Learn more about me on my [personal website R-Digital](https://reifschneider.digital?utm_src=github)
+I'm a German web dev expert & IT aficionado with 15+ years of PHP & Linux mastery. Passionate about server tech & software dev. Founder & Tech Visionary at Neoground. Learn more about me on my [personal website R-Digital](https://reifschneider.digital?utm_src=github).
 
 ## Our Open-Source Journey 🌟
 
@@ -52,6 +52,8 @@ At Neoground, we see technology as a force for good, a tool to create a more sus
 
 ---
 
+![This banner showcases the red pandas in their nerdy hoodies, deeply engaged in various tech activities in a vibrant, energetic tech environment.](https://neoground.com/assets/images/code/collaborate.webp)
+
 ## Collaborate with Us: Join the Neoground Open-Source Movement 🤝
 
 At Neoground, collaboration is the cornerstone of innovation. We deeply value the contributions of developers, thinkers, and creators from all corners of the world. Our GitHub is more than just a repository of projects; it's a breeding ground for groundbreaking ideas and a platform where your contributions can make a real impact. We open source more and more of our projects, to contribute, to innovate and to build something sophisticated.
@@ -78,13 +80,15 @@ Your support, in any form, makes a real difference. Together, we can drive innov
 
 ---
 
+![This banner features our red pandas using communication devices. This scene vividly captures the theme of connectivity and engagement in a digital world.](https://neoground.com/assets/images/code/contact.webp)
+
 ## Stay in Touch: We're Just a Click Away! 🌐
 
 Neoground is more than just a company; we're a community of passionate individuals committed to making a difference. We love hearing from you, whether it's feedback, ideas, or just a hello. Staying connected helps us build stronger relationships and better technologies.
 
 ### Ways to Reach Us:
 
-- **Email & Chat**: Have a question or an idea you'd like to share? Drop us an email or send a chat message. See our [contact](https://neoground.com/contact) page for all details. We read every message and strive to respond promptly.
+- **Email & Chat**: Have a question or an idea you'd like to share? Drop us an email or send a chat message. See our [contact](https://neoground.com/contact?utm_src=github) page for all details. We read every message and strive to respond promptly.
 - **Social Media Interactions**: Follow us on our social platforms for the latest updates, insights, and behind-the-scenes peeks into our work. Engage with our posts, share your thoughts, and be a part of our digital story.
 - **Career Opportunities**: Looking to take your career to the next level? Check out our careers page for opportunities to work with us. We're always on the lookout for talented and passionate individuals.
 
