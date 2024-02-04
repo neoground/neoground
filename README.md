@@ -10,11 +10,11 @@ Hello, fellow innovators! Welcome to our world of open-source repositories. Here
 
 As the curator of this account, I bring a fusion of creativity, expertise, and enthusiasm to every project. Our GitHub is a window into our world, showcasing the diverse, inclusive, and dynamic nature of our work.
 
-I'm a German web dev expert & IT aficionado with 15+ years of PHP & Linux mastery. Passionate about server tech & software dev. Founder & Tech Visionary at Neoground. Learn more about me on my [personal website R-Digital](https://reifschneider.digital?utm_src=github).
+I'm a German web dev expert & IT aficionado with 15+ years of PHP & Linux mastery. Passionate about server tech & software dev. Founder & Tech Visionary at Neoground. Learn more about me on my [personal website R-Digital](https://reifschneider.digital?utm_src=github) or on our [company's blog](https://neoground.com/blog).
 
 ## Our Open-Source Journey 🌟
 
-We at Neoground believe in the power of open-source to revolutionize technology. Our projects are more than just code; they're a testament to our collaborative spirit and innovative mindset.
+We at Neoground believe in the power of open-source to revolutionize technology. Our projects are more than just code; they're a testament to our collaborative spirit and innovative mindset. Over the years we also created plenty internal projects - most of them are now becoming open-source as well!
 
 **Explore Our Projects**: Visit our [projects website](https://neoground.com/projects?utm_src=github) to see how we're contributing to the open-source community. You can also find all of our project pages and documentations there.
 
