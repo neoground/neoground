@@ -1,6 +1,6 @@
 # Welcome to Neoground's GitHub 🚀
 
-![This banner showcases our red pandas, working together virtually on a significant project, embodying the spirit of teamwork and innovation in a tech environment.](https://neoground.com/assets/images/code/repo_banner.webp)
+![This banner showcases our raccoons, working together virtually on a significant project, embodying the spirit of teamwork and innovation in a modern tech environment.](https://neoground.com/assets/images/ai/oss_overview.webp)
 
 Hello, fellow innovators! Welcome to our world of open-source repositories. Here, you'll discover our passion for open-source projects, our commitment to diversity, and our unique approach to technology, right from the heart of Germany, near Frankfurt am Main.
 
@@ -52,7 +52,7 @@ At Neoground, we see technology as a force for good, a tool to create a more sus
 
 ---
 
-![This banner showcases the red pandas in their nerdy hoodies, deeply engaged in various tech activities in a vibrant, energetic tech environment.](https://neoground.com/assets/images/code/collaborate.webp)
+![This banner showcases the raccoons in their nerdy hoodies, deeply engaged in various tech activities in a vibrant, energetic tech environment.](https://neoground.com/assets/images/ai/oss_collaborate.webp)
 
 ## Collaborate with Us: Join the Neoground Open-Source Movement 🤝
 
@@ -80,7 +80,7 @@ Your support, in any form, makes a real difference. Together, we can drive innov
 
 ---
 
-![This banner features our red pandas using communication devices. This scene vividly captures the theme of connectivity and engagement in a digital world.](https://neoground.com/assets/images/code/contact.webp)
+![This banner features our red pandas using communication devices. This scene vividly captures the theme of connectivity and engagement in a digital world.](https://neoground.com/assets/images/ai/oss_contact.webp)
 
 ## Stay in Touch: We're Just a Click Away! 🌐
 
