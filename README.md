@@ -1,97 +1,108 @@
-# Welcome to Neoground's GitHub 🚀
+# Neoground on GitHub 🚀
+**Open Minds. Open Source. Future-Focused.**
 
-![This banner showcases our raccoons, working together virtually on a significant project, embodying the spirit of teamwork and innovation in a modern tech environment.](https://neoground.com/assets/images/ai/oss_overview.webp)
+![Banner: Collaborative Raccoons](https://raw.githubusercontent.com/neoground/neoground/refs/heads/main/assets/welcome.webp)
 
-Hello, fellow innovators! Welcome to our world of open-source repositories. Here, you'll discover our passion for open-source projects, our commitment to diversity, and our unique approach to technology, right from the heart of Germany, near Frankfurt am Main.
-
----
-
-## Greetings from Sven 👨‍💻
-
-As the curator of this account, I bring a fusion of creativity, expertise, and enthusiasm to every project. Our GitHub is a window into our world, showcasing the diverse, inclusive, and dynamic nature of our work.
-
-I'm a German web dev expert & IT aficionado with 15+ years of PHP & Linux mastery. Passionate about server tech & software dev. Founder & Tech Visionary at Neoground. Learn more about me on my [personal website R-Digital](https://reifschneider.digital?utm_src=github) or on our [company's blog](https://neoground.com/blog?utm_src=github).
-
-## Our Open-Source Journey 🌟
-
-We at Neoground believe in the power of open-source to revolutionize technology. Our projects are more than just code; they're a testament to our collaborative spirit and innovative mindset. Over the years we also created plenty internal projects - most of them are now becoming open-source as well!
-
-**Explore Our Projects**: Visit our [projects website](https://neoground.com/projects?utm_src=github) to see how we're contributing to the open-source community. You can also find all of our project pages and documentations there.
-
-## Connecting Communities 🌍
-
-Join us on our journey across digital landscapes:
-
-- **Facebook**: Be part of our story on [Facebook @weareneoground](https://www.facebook.com/weareneoground).
-- **Instagram**: Catch our vibrant, colorful side on [Instagram @neground_gmbh](https://instagram.com/neoground_gmbh).
-- **LinkedIn**: Connect professionally on [LinkedIn](https://www.linkedin.com/company/neoground-gmbh).
-- **Reddit**: Engage in discussions with us on [Subreddit r/neoground](https://www.reddit.com/r/neoground).
-
-## Our Essence: Embodying the Spirit of Innovation and Diversity 🌈
-
-Neoground is more than a tech company; we are a melting pot of cultures, ideas, and innovations. Located in the dynamic region of Wetterau, near Frankfurt am Main, our essence is deeply rooted in the rich cultural and intellectual heritage of Germany. Our diverse team reflects the vibrant spirit of this area, known for its blend of tradition and modernity, where history meets innovation.
-
-### What Defines Us:
-
-- **Cultural Diversity**: Our team members and contributors come from various backgrounds, bringing a wealth of perspectives that enrich our work and foster creative problem-solving.
-- **Innovation Hub**: Situated near Frankfurt, a hub of commerce and innovation, we draw inspiration from our surroundings, infusing our projects with cutting-edge ideas and technologies.
-- **Commitment to Excellence**: We believe in doing things right. Whether it's a small feature in an app or a large-scale AI project, our commitment to quality and detail is unwavering.
-- **Passion for Technology**: At our core, we are passionate about leveraging technology to make a positive impact on businesses and society. Our enthusiasm is evident in every line of code we write.
-
-## A Glimpse of Our World: Where Technology Meets Humanity 🌍
-
-At Neoground, we see technology as a force for good, a tool to create a more sustainable, inclusive, and connected world. Our vision extends beyond mere business success; we aim to initiate transformative changes that benefit society at large.
-
-### Our Vision and Spirit:
-
-- **Tech for Good**: We harness the power of technology to address societal challenges, believing in a future where technology serves humanity.
-- **Sustainable Innovation**: Our approach to technology is intertwined with our commitment to sustainability. From eco-friendly operations to developing green tech solutions, we're dedicated to making a positive environmental impact.
-- **Inclusivity in Tech**: We advocate for inclusivity in the tech world. Our projects and workplace practices are designed to be welcoming and accessible to all, regardless of background or ability.
-- **A Beacon of Thought Leadership**: As leaders in the tech community, we share our insights and learnings through blogs, talks, and workshops, inspiring others and fostering a culture of knowledge-sharing.
-- **Embracing Regional Identity**: Our location near Frankfurt am Main is not just a geographical fact; it's a source of inspiration. We embody the innovation, diversity, and forward-thinking spirit of this region, making it an integral part of our identity.
+Welcome to Neoground's GitHub — the central hub for our open-source innovations, experimental tech,
+and community-driven software. 
+This account is led by [Sven Reifschneider](https://reifschneider.digital?utm_src=github), founder, tech visionary, 
+and systems polymath behind Neoground GmbH. Based near Frankfurt am Main, we build thoughtful, 
+purposeful technology that connects, empowers, and transforms.
 
 ---
 
-![This banner showcases the raccoons in their nerdy hoodies, deeply engaged in various tech activities in a vibrant, energetic tech environment.](https://neoground.com/assets/images/ai/oss_collaborate.webp)
+## 👨‍💻 Who's Behind This?
 
-## Collaborate with Us: Join the Neoground Open-Source Movement 🤝
+I'm Sven — developer since childhood, founder, photographer, deep systems thinker, and the architect of Neoground.
+With 15+ years of expertise in Linux, PHP, and full-stack systems, I blend robust engineering with visionary strategy.
+I design not just products, but ecosystems.
 
-At Neoground, collaboration is the cornerstone of innovation. We deeply value the contributions of developers, thinkers, and creators from all corners of the world. Our GitHub is more than just a repository of projects; it's a breeding ground for groundbreaking ideas and a platform where your contributions can make a real impact. We open source more and more of our projects, to contribute, to innovate and to build something sophisticated.
+🔗 Personal site & blog: [R-Digital](https://reifschneider.digital?utm_src=github)
 
-### Code Contributions and Feedback
-
-- **Get Involved in Development**: If you're a developer, your code contributions are invaluable. Whether it's fixing bugs, adding new features, or improving documentation, your expertise can significantly enhance our projects.
-- **Share Your Ideas and Feedback**: Have an idea or suggestion? We welcome your input to help us grow and innovate. Open an issue or request on our repositories to share your thoughts.
-
-### Financial Support and Sponsorships
-
-- **Become a Financial Contributor**: Your financial investments directly support our project development, allowing us to dedicate more resources and time to innovation.
-- **Sponsorships**: We welcome sponsorships from individuals and organizations. As a sponsor, you'll be supporting a growing open-source community and gaining visibility among our network.
-- **Donations**: Every donation, big or small, helps us sustain and expand our open-source initiatives.
-
-### How Your Support Helps
-
-- **Investing in Open Source**: Your contributions, whether code, ideas, or financial, help us maintain and grow our open-source projects. This means better software, more features, and a stronger community.
-- **Enabling Continuous Improvement**: With your support, we can invest in research, development, and the overall improvement of our projects, ensuring they remain cutting-edge and high-quality.
-
-### Join Us in Making a Difference
-
-Your support, in any form, makes a real difference. Together, we can drive innovation and create technology that not only serves our needs but also contributes positively to the broader tech community.
+🧠 Company blog: [Neoground Blog](https://neoground.com/blog?utm_src=github)
 
 ---
 
-![This banner features our red pandas using communication devices. This scene vividly captures the theme of connectivity and engagement in a digital world.](https://neoground.com/assets/images/ai/oss_contact.webp)
+## 🧠 What You’ll Find Here
 
-## Stay in Touch: We're Just a Click Away! 🌐
+Neoground’s GitHub is a living archive of our ideas — tools we use ourselves and solutions we share with the world.
 
-Neoground is more than just a company; we're a community of passionate individuals committed to making a difference. We love hearing from you, whether it's feedback, ideas, or just a hello. Staying connected helps us build stronger relationships and better technologies.
+### 🌍 Key Projects
 
-### Ways to Reach Us:
+- **Charm** – Our lean PHP framework for modern apps.
+- **PentaPaper** – A modular business management suite (SaaS + self-hosted).
+  Coming soon once we released the first version.
+- **BreezeBee** – A modern frontend suite for weather stations and weewx.
 
-- **Email & Chat**: Have a question or an idea you'd like to share? Drop us an email or send a chat message. See our [contact](https://neoground.com/contact?utm_src=github) page for all details. We read every message and strive to respond promptly.
-- **Social Media Interactions**: Follow us on our social platforms for the latest updates, insights, and behind-the-scenes peeks into our work. Engage with our posts, share your thoughts, and be a part of our digital story.
-- **Career Opportunities**: Looking to take your career to the next level? Check out our careers page for opportunities to work with us. We're always on the lookout for talented and passionate individuals.
+More projects are emerging — we’re gradually open-sourcing internal tools 
+and launching new ones with the community in mind.
+
+👉 Visit [neoground.com/projects](https://neoground.com/projects?utm_src=github) for the full list.
 
 ---
 
-✨ **Every Message, Every Commit, Every Collaboration Shapes Our Journey. Let's Innovate Together.** ✨
+## 🧩 Why We Build Open Source
+
+We don’t just publish code. We build systems that solve problems, respect users, and elevate standards. 
+Open source is how we:
+
+- Empower niche communities (e.g. weather tracking)
+- Share robust foundations for others to build upon
+- Advance ethical, human-centered tech
+- Showcase innovation in real-world scenarios
+
+Whether it’s a performance-optimized backend or an elegant UI, our code aims to be practical, readable, and extensible.
+
+---
+
+## 🤝 How You Can Get Involved
+
+We welcome developers, testers, designers, and thinkers. Here’s how to join the movement:
+
+- **Contribute Code**: Bug fixes, improvements, or new features.
+- **Give Feedback**: Open issues, suggest features, or share insights.
+- **Spread the Word**: Star, fork, and share your favorite projects.
+- **Support Financially**: Sponsor us or donate to fuel deeper development.
+
+> Every commit, issue, or idea makes an impact.
+
+We’re also open to collaborations, sponsorships, and partnerships that align with our vision.
+
+---
+
+## 🧭 Our Ethos
+
+- **Built in Germany & enhanced by the worldwide community**: Precision, purpose, and privacy.
+- **Tech for Good**: Empowering people and planet, not just profits.
+- **Human First**: We design for people — accessibility, inclusivity, and longevity matter.
+- **Future-Aligned**: We think in decades, not quarters. Every repo is part of a larger vision.
+
+From energy-aware coding to ethically-grounded AI, we engineer for a better tomorrow — scalable,
+efficient, and built to last.
+
+---
+
+![Banner: Raccoons Community](https://raw.githubusercontent.com/neoground/neoground/refs/heads/main/assets/community.webp)
+
+## 🌐 Connect with Us
+
+Want to talk shop, ask questions, or collaborate?
+
+- 📬 [Contact us](https://neoground.com/contact?utm_src=github)
+- 💼 [LinkedIn](https://www.linkedin.com/company/neoground-gmbh)
+- 📸 [Instagram](https://instagram.com/neoground_gmbh)
+- 🗣️ [Subreddit](https://www.reddit.com/r/neoground)
+- 💬 [Matrix](https://matrix.to/#/#neoground:matrix.neohq.de)
+
+Or just drop a star ⭐ — we see every single one and it fuels our next big idea.
+
+---
+
+![Banner: Raccoons Communicating](https://raw.githubusercontent.com/neoground/neoground/refs/heads/main/assets/future.webp)
+
+## ✨ Let’s Build the Future
+
+At Neoground, we’re not just solving problems. We’re designing new ways to live, work, and connect — through 
+open-source, inclusive design, and audacious ideas.
+
+Welcome aboard.
