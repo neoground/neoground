@@ -3,7 +3,7 @@
 
 ![Banner: Collaborative Raccoons](https://raw.githubusercontent.com/neoground/neoground/refs/heads/main/assets/welcome.webp)
 
-Welcome to Neoground's GitHub — the central hub for our open-source innovations, experimental tech,
+Welcome to Neoground's GitHub - the central hub for our open-source innovations, experimental tech,
 and community-driven software. 
 This account is led by [Sven Reifschneider](https://reifschneider.digital?utm_src=github), founder, tech visionary, 
 and systems polymath behind Neoground GmbH. Based near Frankfurt am Main, we build thoughtful, 
@@ -13,7 +13,7 @@ purposeful technology that connects, empowers, and transforms.
 
 ## 👨‍💻 Who's Behind This?
 
-I'm Sven — developer since childhood, founder, photographer, deep systems thinker, and the architect of Neoground.
+I'm Sven - developer since childhood, founder, photographer, deep systems thinker, and the architect of Neoground.
 With 15+ years of expertise in Linux, PHP, and full-stack systems, I blend robust engineering with visionary strategy.
 I design not just products, but ecosystems.
 
@@ -25,7 +25,7 @@ I design not just products, but ecosystems.
 
 ## 🧠 What You’ll Find Here
 
-Neoground’s GitHub is a living archive of our ideas — tools we use ourselves and solutions we share with the world.
+Neoground’s GitHub is a living archive of our ideas - tools we use ourselves and solutions we share with the world.
 
 ### 🌍 Key Projects
 
@@ -34,7 +34,7 @@ Neoground’s GitHub is a living archive of our ideas — tools we use ourselves
   Coming soon once we released the first version.
 - **BreezeBee** – A modern frontend suite for weather stations and weewx.
 
-More projects are emerging — we’re gradually open-sourcing internal tools 
+More projects are emerging - we’re gradually open-sourcing internal tools 
 and launching new ones with the community in mind.
 
 👉 Visit [neoground.com/projects](https://neoground.com/projects?utm_src=github) for the full list.
@@ -64,7 +64,7 @@ We welcome developers, testers, designers, and thinkers. Here’s how to join th
 - **Spread the Word**: Star, fork, and share your favorite projects.
 - **Support Financially**: Sponsor us or donate to fuel deeper development.
 
-> Every commit, issue, or idea makes an impact.
+Every commit, issue, or idea makes an impact.
 
 We’re also open to collaborations, sponsorships, and partnerships that align with our vision.
 
@@ -74,10 +74,10 @@ We’re also open to collaborations, sponsorships, and partnerships that align w
 
 - **Built in Germany & enhanced by the worldwide community**: Precision, purpose, and privacy.
 - **Tech for Good**: Empowering people and planet, not just profits.
-- **Human First**: We design for people — accessibility, inclusivity, and longevity matter.
+- **Human First**: We design for people - accessibility, inclusivity, and longevity matter.
 - **Future-Aligned**: We think in decades, not quarters. Every repo is part of a larger vision.
 
-From energy-aware coding to ethically-grounded AI, we engineer for a better tomorrow — scalable,
+From energy-aware coding to ethically-grounded AI, we engineer for a better tomorrow - scalable,
 efficient, and built to last.
 
 ---
@@ -94,7 +94,7 @@ Want to talk shop, ask questions, or collaborate?
 - 🗣️ [Subreddit](https://www.reddit.com/r/neoground)
 - 💬 [Matrix](https://matrix.to/#/#neoground:matrix.neohq.de)
 
-Or just drop a star ⭐ — we see every single one and it fuels our next big idea.
+Or just drop a star ⭐ - we see every single one and it fuels our next big idea.
 
 ---
 
@@ -102,7 +102,7 @@ Or just drop a star ⭐ — we see every single one and it fuels our next big id
 
 ## ✨ Let’s Build the Future
 
-At Neoground, we’re not just solving problems. We’re designing new ways to live, work, and connect — through 
+At Neoground, we’re not just solving problems. We’re designing new ways to live, work, and connect - through 
 open-source, inclusive design, and audacious ideas.
 
 Welcome aboard.
