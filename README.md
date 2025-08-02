@@ -89,10 +89,10 @@ efficient, and built to last.
 Want to talk shop, ask questions, or collaborate?
 
 - 📬 [Contact us](https://neoground.com/contact?utm_src=github)
-- 💼 [LinkedIn](https://www.linkedin.com/company/neoground-gmbh)
-- 📸 [Instagram](https://instagram.com/neoground_gmbh)
-- 🗣️ [Subreddit](https://www.reddit.com/r/neoground)
-- 💬 [Matrix](https://matrix.to/#/#neoground:matrix.neohq.de)
+- 💼 [LinkedIn: neoground-gmbh](https://www.linkedin.com/company/neoground-gmbh)
+- 📸 [Instagram: neoground_gmbh](https://instagram.com/neoground_gmbh)
+- 🗣️ [Reddit: r/neoground](https://www.reddit.com/r/neoground)
+- 🦋 [Bluesky: neoground](https://bsky.app/profile/neoground.bsky.social)
 
 Or just drop a star ⭐ - we see every single one and it fuels our next big idea.
 
